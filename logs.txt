@@ -1,0 +1,23 @@
+2025-09-17 21:26:50,426 - anuragchowdhury19official@gmail.com - Logged in
+2025-09-17 21:27:39,830 - anuragchowdhury19official@gmail.com - Viewed contacts
+2025-09-17 21:28:57,804 - anuragchowdhury19official@gmail.com - Viewed contacts
+2025-09-17 23:16:15.006534 - anuragchowdhury19official@gmail.com - Admin Logged In
+2025-09-17 23:17:15.485775 - anuragchowdhury19official@gmail.com - Added new admin: anuragchowdhury6991@gmail.com
+2025-09-17 23:25:24.496550 - anuragchowdhury6991@gmail.com - Admin Logged In
+2025-09-17 23:39:43.881166 - anuragchowdhury6991@gmail.com - Admin Logged In
+2025-09-17 23:42:08.139573 - anuragchowdhury6991@gmail.com - Admin Logged In
+2025-09-17 23:42:44.983129 - anuragchowdhury19official@gmail.com - Admin Logged In
+2025-09-17 23:46:45.054164 - anuragchowdhury19official@gmail.com - Admin Logged In
+2025-09-17 23:59:16.769481 - anuragchowdhury6991@gmail.com - Admin Logged In
+2025-09-18 00:09:51.090963 - ramesh@gmail.com - User Ramesh with email : ramesh@gmail.com queried :What is the minimum qualification required for Bsc in Maths?
+2025-09-18 00:10:21.441388 - anuragchowdhury19official@gmail.com - Admin Logged In
+2025-09-18 12:02:24.713203 - ssharma@gmail.com -  - When will classes resume next year?
+2025-09-18 12:03:04.836423 - anuragchowdhury19official@gmail.com - Admin Logged In
+2025-09-22 12:44:30.535428 - shubham80patil@gmail.com -  - Can i pay fees in installment?
+2025-09-22 12:45:12.298708 - anuragchowdhury19official@gmail.com - Admin Logged In
+2025-09-22 19:37:23.207536 - anuragchowdhury19official@gmail.com - Admin Logged In
+2025-09-22 20:00:29.122828 - rkhanna@gmail.com - Submitted query - May I know the fees for MCA for next year?
+2025-09-22 20:03:14.456388 - anuragchowdhury19official@gmail.com - Admin Logged In
+2025-09-22 20:38:58.845993 - anuragchowdhury19@gmail.com - Submitted query - Is there 2 sharing vacancy in hostel?
+2025-09-22 20:49:56.041670 - anurag.chowdhury@msam.christuniversity.in - Submitted query - Is there a 3 sharing hostel vacancy available?
+2025-09-22 20:51:22.567217 - anuragchowdhury19official@gmail.com - Admin Logged In

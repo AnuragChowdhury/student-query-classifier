@@ -1,0 +1,13 @@
+streamlit
+pyrebase4
+pandas
+altair
+joblib
+scikit-learn
+nltk
+python-dotenv
+
+# HuggingFace + dependencies
+transformers
+torch
+sentencepiece
